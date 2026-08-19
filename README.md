@@ -201,7 +201,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Other tools
 
-* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,201 | 🐛 613 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,201 | 🐛 613 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
+* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,201 | 🐛 616 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,201 | 🐛 616 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
 * [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2021-11-03 - SyntaxHighlighter brush for the Ride language.
 
 ## Built on Waves
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
