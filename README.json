@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-20T00:37:52Z",
+                "last_commit": "2026-08-21T00:33:12Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
@@ -421,7 +421,7 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-20T00:37:52Z",
+                "last_commit": "2026-08-21T00:33:12Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
@@ -461,7 +461,7 @@
                 "last_commit": "2026-08-17T08:03:32Z",
                 "owner": "pygments",
                 "repo": "pygments",
-                "stars": 2202
+                "stars": 2201
               }
             },
             {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:39:02.676Z",
+    "last_updated": "2026-08-21T17:38:08.358Z",
     "original_repository": "msmolyakov/awesome-waves",
     "original_repository_id": 170878625,
     "original_repository_sha": "ab33db79cfb0b5a50c9576d674b7647240f77b8b",
