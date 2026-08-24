@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-23T13:13:54Z",
+                "last_commit": "2026-08-24T00:37:07Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
@@ -166,6 +166,28 @@
               "description": null,
               "node_type": "group",
               "title": "C/C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WavesCS",
+                  "description": "C# library to interact with the Waves blockchain.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 113208971,
+                    "language": "C#",
+                    "last_commit": "2022-12-08T05:22:37Z",
+                    "owner": "wavesplatform",
+                    "repo": "WavesCS",
+                    "stars": 30
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C#"
             },
             {
               "children": [
@@ -320,6 +342,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "go-lib-crypto",
+                  "description": "GoLang implementation of the unified crypto primitives for Waves.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189381631,
+                    "language": "Go",
+                    "last_commit": "2020-08-31T10:36:11Z",
+                    "owner": "wavesplatform",
+                    "repo": "go-lib-crypto",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Go"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WavesKit",
+                  "description": "All-in-one Waves Platform development kit for the PHP language.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 164501498,
+                    "language": "PHP",
+                    "last_commit": "2026-03-29T12:08:47Z",
+                    "owner": "deemru",
+                    "repo": "WavesKit",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PHP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Waves-Gateway-Framework",
                   "description": "A framework to connect other cryptocurrencies to the Waves blockchain (LTC example).",
                   "children": [],
@@ -404,6 +470,28 @@
               "description": null,
               "node_type": "group",
               "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WavesSDK-iOS",
+                  "description": "SDK for Mobile Apps on iOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179682769,
+                    "language": "Swift",
+                    "last_commit": "2022-11-29T11:08:35Z",
+                    "owner": "wavesplatform",
+                    "repo": "WavesSDK-iOS",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Swift"
             }
           ],
           "description": null,
@@ -421,7 +509,7 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-23T13:13:54Z",
+                "last_commit": "2026-08-24T00:37:07Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
@@ -532,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:29:18.172Z",
+    "last_updated": "2026-08-24T14:41:16.393Z",
     "original_repository": "msmolyakov/awesome-waves",
     "original_repository_id": 170878625,
     "original_repository_sha": "ab33db79cfb0b5a50c9576d674b7647240f77b8b",
