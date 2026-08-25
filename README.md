@@ -97,7 +97,7 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ### Other
 
-* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,168 | 🐛 24 | 🌐 Scala | 📅 2026-08-10 - Waves Node repository on GitHub.
+* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,168 | 🐛 26 | 🌐 Scala | 📅 2026-08-25 - Waves Node repository on GitHub.
 * [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 37 | 🌐 Go | 📅 2026-08-24 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
@@ -147,7 +147,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 #### C/C++
 
-* [nanos-app-waves](https://github.com/wavesplatform/nanos-app-waves) ⭐ 18 | 🐛 3 | 🌐 Assembly | 📅 2025-12-11 - Waves wallet application for Ledger Nano S.
+* [nanos-app-waves](https://github.com/wavesplatform/nanos-app-waves) ⭐ 18 | 🐛 4 | 🌐 Assembly | 📅 2025-12-11 - Waves wallet application for Ledger Nano S.
 * [waves-c](https://github.com/wavesplatform/waves-c) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2019-10-25 - C library to work with Waves.
 * [wavespp](https://github.com/wavesplatform/wavespp) ⚠️ Archived - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) ⭐ 8 | 🐛 4 | 🌐 C | 📅 2019-10-25 library.
 

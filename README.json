@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 56426975,
                 "language": "Scala",
-                "last_commit": "2026-08-10T12:22:01Z",
+                "last_commit": "2026-08-25T16:09:48Z",
                 "owner": "wavesplatform",
                 "repo": "Waves",
                 "stars": 1168
@@ -620,7 +620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:55.677Z",
+    "last_updated": "2026-08-25T17:40:01.284Z",
     "original_repository": "msmolyakov/awesome-waves",
     "original_repository_id": 170878625,
     "original_repository_sha": "ab33db79cfb0b5a50c9576d674b7647240f77b8b",
