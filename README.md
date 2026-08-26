@@ -97,8 +97,8 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ### Other
 
-* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,168 | 🐛 26 | 🌐 Scala | 📅 2026-08-25 - Waves Node repository on GitHub.
-* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 37 | 🌐 Go | 📅 2026-08-24 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
+* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,168 | 🐛 20 | 🌐 Scala | 📅 2026-08-26 - Waves Node repository on GitHub.
+* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 32 | 🌐 Go | 📅 2026-08-26 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 * [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
@@ -195,13 +195,13 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Blockchain utils
 
-* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 37 | 🌐 Go | 📅 2026-08-24 - Utility to compare blockchains on a different nodes.
+* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 32 | 🌐 Go | 📅 2026-08-26 - Utility to compare blockchains on a different nodes.
 * [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) ⚠️ Archived - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 * [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
 ### Other tools
 
-* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,204 | 🐛 634 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,204 | 🐛 634 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
+* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,204 | 🐛 635 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,204 | 🐛 635 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
 * [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2021-11-03 - SyntaxHighlighter brush for the Ride language.
 
 ## Built on Waves
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
