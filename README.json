@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⛓️ Reference Waves Blockchain Node (client) implementation on Scala",
+                "homepage": "https://wavesplatform.com/",
                 "id": 56426975,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:08:37Z",
+                "open_issues": 17,
                 "owner": "wavesplatform",
                 "repo": "Waves",
-                "stars": 1168
+                "stars": 1168,
+                "topics": [
+                  "blockchain",
+                  "cryptography",
+                  "decentralized-applications",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -28,12 +38,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of Waves node, libraries and tools for Waves blockchain",
+                "homepage": null,
                 "id": 151067423,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:52:42Z",
+                "open_issues": 29,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "blockchain",
+                  "blockchain-technology",
+                  "cryptography",
+                  "decentralized-applications",
+                  "smart-contracts",
+                  "waves"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             }
@@ -57,12 +79,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of scripts for accounts, dApps and assets using RIDE programming language.",
+                "homepage": null,
                 "id": 168366636,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2021-07-06T18:21:59Z",
+                "open_issues": 12,
                 "owner": "wavesplatform",
                 "repo": "ride-examples",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "dapp",
+                  "dapp-example",
+                  "ride",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -73,12 +105,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java framework to write tests for your dApps and other smart contracts on Waves blockchain",
+                "homepage": "https://msmolyakov.github.io/paddle",
                 "id": 195812168,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-01-26T21:46:19Z",
+                "open_issues": 6,
                 "owner": "msmolyakov",
                 "repo": "paddle",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "blockchain",
+                  "dapps",
+                  "ride",
+                  "smart-contracts",
+                  "testing",
+                  "testing-tools",
+                  "waves",
+                  "wavesplatform"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -89,12 +135,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line interface for working with waves RIDE language",
+                "homepage": null,
                 "id": 190387824,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-03T00:40:23Z",
+                "open_issues": 16,
                 "owner": "wavesplatform",
                 "repo": "surfboard",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "waves"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -105,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax highlighting for the RIDE language",
+                "homepage": null,
                 "id": 192933203,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2019-07-27T12:52:29Z",
+                "open_issues": 0,
                 "owner": "rosmanov",
                 "repo": "vim-ride",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             }
@@ -130,12 +188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ledger devices app for Waves platform :large_blue_diamond:",
+                    "homepage": null,
                     "id": 120007884,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2025-12-11T12:03:25Z",
+                    "open_issues": 4,
                     "owner": "wavesplatform",
                     "repo": "ledger-app-waves",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -146,12 +209,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C library for working with Waves",
+                    "homepage": null,
                     "id": 130092998,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-10-25T12:00:19Z",
+                    "open_issues": 4,
                     "owner": "wavesplatform",
                     "repo": "waves-c",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -162,12 +230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "C++ wrapper for the waves_c library",
+                    "homepage": null,
                     "id": 216017557,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2019-11-12T15:22:23Z",
+                    "open_issues": 0,
                     "owner": "wavesplatform",
                     "repo": "wavespp",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -185,12 +258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[DEPRICATED] C# library for interacting with the Waves blockchain",
+                    "homepage": null,
                     "id": 113208971,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T05:22:37Z",
+                    "open_issues": 12,
                     "owner": "wavesplatform",
                     "repo": "WavesCS",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -208,12 +286,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java library for interacting with the Waves blockchain.",
+                    "homepage": null,
                     "id": 111785536,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-03-02T03:10:14Z",
+                    "open_issues": 16,
                     "owner": "wavesplatform",
                     "repo": "WavesJ",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "blockchain",
+                      "cryptography",
+                      "java-library"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -224,12 +311,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Waves SDK for Android",
+                    "homepage": "https://wavesplatform.com/",
                     "id": 176732507,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2021-10-16T09:42:31Z",
+                    "open_issues": 2,
                     "owner": "wavesplatform",
                     "repo": "WavesSDK-android",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "kotlin",
+                      "sdk",
+                      "sdk-android",
+                      "waves"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -240,12 +337,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tools to work with cryptographic primitives used in the Waves blockchain",
+                    "homepage": "https://github.com/wavesplatform",
                     "id": 213051282,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-03-26T21:39:25Z",
+                    "open_issues": 4,
                     "owner": "msmolyakov",
                     "repo": "waves-crypto-java",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -263,12 +365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build and sign(multi-sign) transactions for Waves blockchain.",
+                    "homepage": null,
                     "id": 158679237,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-06-08T08:29:17Z",
+                    "open_issues": 8,
                     "owner": "wavesplatform",
                     "repo": "waves-transactions",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -279,12 +386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript/JavaScript library for your web app for interacting with the Waves blockchain. Using Signer you can easily create and sign transactions.",
+                    "homepage": null,
                     "id": 229743250,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-25T14:26:16Z",
+                    "open_issues": 42,
                     "owner": "wavesplatform",
                     "repo": "signer",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -295,12 +407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JS widget for accepting crypto payments on your website",
+                    "homepage": null,
                     "id": 268932348,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2020-07-24T06:37:28Z",
+                    "open_issues": 1,
                     "owner": "vlzhr",
                     "repo": "pay-crypto-widget",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -311,12 +428,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All algorithm implementations like signature verification and protocol entries like address used in Waves protocol.",
+                    "homepage": null,
                     "id": 158679359,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-20T12:10:03Z",
+                    "open_issues": 2,
                     "owner": "wavesplatform",
                     "repo": "ts-lib-crypto",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "crypto",
+                      "cryptography",
+                      "signature"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -327,12 +453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 229962381,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-01-07T13:09:41Z",
+                    "open_issues": 16,
                     "owner": "vlzhr",
                     "repo": "crypto-donate",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -343,12 +474,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Waves Signer implementation for Vue.js",
+                    "homepage": null,
                     "id": 235467133,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-01-22T10:21:42Z",
+                    "open_issues": 3,
                     "owner": "opensolutionsweb3",
                     "repo": "vue-waves-signer",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "vue",
+                      "waves-signer"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -366,12 +505,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GoLang implementation of the unified crypto primitives for Waves Platform",
+                    "homepage": null,
                     "id": 189381631,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2020-08-31T10:36:11Z",
+                    "open_issues": 1,
                     "owner": "wavesplatform",
                     "repo": "go-lib-crypto",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -389,12 +533,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Waves Platform Development Kit for PHP",
+                    "homepage": "https://packagist.org/packages/deemru/waveskit",
                     "id": 164501498,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-03-29T12:08:47Z",
+                    "open_issues": 0,
                     "owner": "deemru",
                     "repo": "WavesKit",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "devkit",
+                      "php",
+                      "waveskit",
+                      "wavesplatform"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -412,12 +566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A framework to connect other cryptocurrencies to the Waves platform.",
+                    "homepage": null,
                     "id": 123681045,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-01T17:09:15Z",
+                    "open_issues": 8,
                     "owner": "jansenmarc",
                     "repo": "WavesGatewayFramework",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -428,12 +587,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 218276430,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-31T10:08:42Z",
+                    "open_issues": 0,
                     "owner": "PyWaves",
                     "repo": "Waves-ERC20-Gateway",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -444,12 +608,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Object-oriented library for the Waves blockchain platform",
+                    "homepage": null,
                     "id": 76631764,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-05T16:42:28Z",
+                    "open_issues": 33,
                     "owner": "PyWaves",
                     "repo": "PyWaves",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -467,12 +636,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library to work with Waves blockchain :chains:",
+                    "homepage": "https://docs.rs/wavesplatform",
                     "id": 294114676,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2023-08-29T06:07:19Z",
+                    "open_issues": 0,
                     "owner": "waves-rust",
                     "repo": "waves-lib-rust",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "blockchain",
+                      "rust",
+                      "waves",
+                      "wavesplatform"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 },
@@ -483,12 +662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Rust interface for the Waves blockchain",
+                    "homepage": null,
                     "id": 145123128,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2018-09-26T11:07:58Z",
+                    "open_issues": 0,
                     "owner": "petermz",
                     "repo": "WavesRs",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -506,12 +690,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Waves SDK for iOS",
+                    "homepage": "https://wavesplatform.com",
                     "id": 179682769,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2022-11-29T11:08:35Z",
+                    "open_issues": 6,
                     "owner": "wavesplatform",
                     "repo": "WavesSDK-iOS",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "sdk",
+                      "sdk-ios",
+                      "waves",
+                      "wavesplatform"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:30.717Z"
                 }
@@ -534,12 +728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of Waves node, libraries and tools for Waves blockchain",
+                "homepage": null,
                 "id": 151067423,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:52:42Z",
+                "open_issues": 29,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "blockchain",
+                  "blockchain-technology",
+                  "cryptography",
+                  "decentralized-applications",
+                  "smart-contracts",
+                  "waves"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -550,12 +756,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Waves Node extension allows miner to automate payouts for its lessors and to receive notifications about mining progress.",
+                "homepage": null,
                 "id": 218629825,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2020-02-27T16:08:16Z",
+                "open_issues": 3,
                 "owner": "msmolyakov",
                 "repo": "waves-node-tools-extension",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "waves",
+                  "wavesplatform"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             }
@@ -573,12 +789,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pygments is a generic syntax highlighter written in Python",
+                "homepage": "http://pygments.org/",
                 "id": 205564111,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-17T08:03:32Z",
+                "open_issues": 637,
                 "owner": "pygments",
                 "repo": "pygments",
-                "stars": 2205
+                "stars": 2205,
+                "topics": [
+                  "python",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -589,12 +813,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SyntaxHighlighter brush for Ride language",
+                "homepage": null,
                 "id": 210303754,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-11-03T16:14:05Z",
+                "open_issues": 2,
                 "owner": "msmolyakov",
                 "repo": "sh-Ride-brush",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "confluence",
+                  "dapps",
+                  "ride",
+                  "smart-contracts",
+                  "syntaxhighlighter",
+                  "waves",
+                  "wavesplatform"
+                ]
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             }
@@ -618,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crypto trading arbitrage bot",
+                "homepage": "https://waveflow.xyz",
                 "id": 218501213,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-04-15T18:32:15Z",
+                "open_issues": 1,
                 "owner": "vlzhr",
                 "repo": "waveflow-trading-bot",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             },
@@ -634,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized affiliate program on Waves blockchain",
+                "homepage": "https://waveslabs.com/",
                 "id": 196002118,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2019-09-27T20:09:57Z",
+                "open_issues": 0,
                 "owner": "bettexproject",
                 "repo": "WavesAffi",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:30.717Z"
             }
@@ -653,15 +900,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:56:30.717Z",
+    "last_updated": "2026-08-29T05:01:53.558Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome things for development on Waves blockchain.",
+      "homepage": "https://msmolyakov.github.io/awesome-waves/",
       "id": 170878625,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-10-05T14:05:48Z",
+      "open_issues": 1,
       "owner": "msmolyakov",
       "repo": "awesome-waves",
-      "stars": 88
+      "stars": 88,
+      "topics": [
+        "blockchain",
+        "cryptocurrency",
+        "dapp",
+        "dapps",
+        "defi",
+        "fintech",
+        "ride",
+        "smart-contract-tools",
+        "smart-contracts",
+        "smartcontracts",
+        "waves",
+        "wavesplatform",
+        "wavesprotocol",
+        "web3"
+      ]
     },
     "original_repository_sha": "ab33db79cfb0b5a50c9576d674b7647240f77b8b",
     "enhanced_repository": "enhansome/enhansome-waves",
