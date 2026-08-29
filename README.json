@@ -18,7 +18,8 @@
                 "owner": "wavesplatform",
                 "repo": "Waves",
                 "stars": 1168
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-28T00:33:13Z",
+                "last_commit": "2026-08-28T13:52:42Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             }
           ],
           "description": null,
@@ -61,7 +63,8 @@
                 "owner": "wavesplatform",
                 "repo": "ride-examples",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "msmolyakov",
                 "repo": "paddle",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "wavesplatform",
                 "repo": "surfboard",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "rosmanov",
                 "repo": "vim-ride",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             }
           ],
           "description": null,
@@ -130,7 +136,8 @@
                     "owner": "wavesplatform",
                     "repo": "ledger-app-waves",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -145,7 +152,8 @@
                     "owner": "wavesplatform",
                     "repo": "waves-c",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -160,7 +168,8 @@
                     "owner": "wavesplatform",
                     "repo": "wavespp",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -182,7 +191,8 @@
                     "owner": "wavesplatform",
                     "repo": "WavesCS",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -204,7 +214,8 @@
                     "owner": "wavesplatform",
                     "repo": "WavesJ",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -219,7 +230,8 @@
                     "owner": "wavesplatform",
                     "repo": "WavesSDK-android",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -234,7 +246,8 @@
                     "owner": "msmolyakov",
                     "repo": "waves-crypto-java",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -256,7 +269,8 @@
                     "owner": "wavesplatform",
                     "repo": "waves-transactions",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -271,7 +285,8 @@
                     "owner": "wavesplatform",
                     "repo": "signer",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -286,7 +301,8 @@
                     "owner": "vlzhr",
                     "repo": "pay-crypto-widget",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -301,7 +317,8 @@
                     "owner": "wavesplatform",
                     "repo": "ts-lib-crypto",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -316,7 +333,8 @@
                     "owner": "vlzhr",
                     "repo": "crypto-donate",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -331,7 +349,8 @@
                     "owner": "opensolutionsweb3",
                     "repo": "vue-waves-signer",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -353,7 +372,8 @@
                     "owner": "wavesplatform",
                     "repo": "go-lib-crypto",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -375,7 +395,8 @@
                     "owner": "deemru",
                     "repo": "WavesKit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -397,7 +418,8 @@
                     "owner": "jansenmarc",
                     "repo": "WavesGatewayFramework",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -412,7 +434,8 @@
                     "owner": "PyWaves",
                     "repo": "Waves-ERC20-Gateway",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -427,7 +450,8 @@
                     "owner": "PyWaves",
                     "repo": "PyWaves",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -449,7 +473,8 @@
                     "owner": "waves-rust",
                     "repo": "waves-lib-rust",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 },
                 {
                   "node_type": "item",
@@ -464,7 +489,8 @@
                     "owner": "petermz",
                     "repo": "WavesRs",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -486,7 +512,8 @@
                     "owner": "wavesplatform",
                     "repo": "WavesSDK-iOS",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:30.717Z"
                 }
               ],
               "description": null,
@@ -509,11 +536,12 @@
                 "archived": false,
                 "id": 151067423,
                 "language": "Go",
-                "last_commit": "2026-08-28T00:33:13Z",
+                "last_commit": "2026-08-28T13:52:42Z",
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -528,7 +556,8 @@
                 "owner": "msmolyakov",
                 "repo": "waves-node-tools-extension",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             }
           ],
           "description": null,
@@ -550,7 +579,8 @@
                 "owner": "pygments",
                 "repo": "pygments",
                 "stars": 2205
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -565,7 +595,8 @@
                 "owner": "msmolyakov",
                 "repo": "sh-Ride-brush",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             }
           ],
           "description": null,
@@ -593,7 +624,8 @@
                 "owner": "vlzhr",
                 "repo": "waveflow-trading-bot",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             },
             {
               "node_type": "item",
@@ -608,7 +640,8 @@
                 "owner": "bettexproject",
                 "repo": "WavesAffi",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:56:30.717Z"
             }
           ],
           "description": null,
@@ -620,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:26:23.726Z",
+    "last_updated": "2026-08-29T00:56:30.717Z",
     "original_repository_info": {
       "archived": false,
       "id": 170878625,
