@@ -98,7 +98,7 @@ This list is a collection of useful resources to create decentralized applicatio
 ### Other
 
 * [Node](https://github.com/wavesplatform/Waves) ⭐ 1,168 | 🐛 17 | 🌐 Scala | 📅 2026-08-27 - Waves Node repository on GitHub.
-* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 29 | 🌐 Go | 📅 2026-08-28 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
+* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 28 | 🌐 Go | 📅 2026-08-30 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 * [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
@@ -137,7 +137,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### The Ride programming language
 
 * [ride-examples](https://github.com/wavesplatform/ride-examples) ⭐ 31 | 🐛 12 | 🌐 Scala | 📅 2021-07-06 - Examples of scripts for accounts and assets using Ride.
-* [Paddle](https://github.com/msmolyakov/paddle) ⭐ 13 | 🐛 6 | 🌐 Java | 📅 2026-01-26 - Java library to write tests for your dApps and other smart contracts.
+* [Paddle](https://github.com/msmolyakov/paddle) ⭐ 14 | 🐛 6 | 🌐 Java | 📅 2026-01-26 - Java library to write tests for your dApps and other smart contracts.
 * [surfboard](https://github.com/wavesplatform/Surfboard) ⭐ 10 | 🐛 16 | 🌐 TypeScript | 📅 2023-03-03 - CLI to work with the Ride language and testing.
 * [vim-ride](https://github.com/rosmanov/vim-ride) ⭐ 5 | 🐛 0 | 🌐 Vim script | 📅 2019-07-27 - Vim plugin for Ride syntax highlighting.
 * [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
@@ -157,7 +157,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 #### Java/Kotlin
 
-* [WavesJ](https://github.com/wavesplatform/WavesJ) ⭐ 48 | 🐛 16 | 🌐 Java | 📅 2026-03-02 - Java library to interact with the Waves blockchain and DEX.
+* [WavesJ](https://github.com/wavesplatform/WavesJ) ⭐ 49 | 🐛 16 | 🌐 Java | 📅 2026-03-02 - Java library to interact with the Waves blockchain and DEX.
 * [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) ⭐ 15 | 🐛 2 | 🌐 Kotlin | 📅 2021-10-16 - Kotlin SDK for Mobile Apps on Android.
 * [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) ⚠️ Archived - Library to work with cryptographic primitives used in the Waves blockchain.
 
@@ -195,7 +195,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Blockchain utils
 
-* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 29 | 🌐 Go | 📅 2026-08-28 - Utility to compare blockchains on a different nodes.
+* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 28 | 🌐 Go | 📅 2026-08-30 - Utility to compare blockchains on a different nodes.
 * [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) ⚠️ Archived - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 * [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

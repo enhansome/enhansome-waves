@@ -43,8 +43,8 @@
                 "id": 151067423,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T13:52:42Z",
-                "open_issues": 29,
+                "last_commit": "2026-08-30T14:30:19Z",
+                "open_issues": 28,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251,
@@ -114,7 +114,7 @@
                 "open_issues": 6,
                 "owner": "msmolyakov",
                 "repo": "paddle",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "blockchain",
                   "dapps",
@@ -295,7 +295,7 @@
                     "open_issues": 16,
                     "owner": "wavesplatform",
                     "repo": "WavesJ",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "blockchain",
                       "cryptography",
@@ -733,8 +733,8 @@
                 "id": 151067423,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T13:52:42Z",
-                "open_issues": 29,
+                "last_commit": "2026-08-30T14:30:19Z",
+                "open_issues": 28,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251,
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:41:05.621Z",
+    "last_updated": "2026-08-30T19:46:06.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
