@@ -98,7 +98,7 @@ This list is a collection of useful resources to create decentralized applicatio
 ### Other
 
 * [Node](https://github.com/wavesplatform/Waves) ⭐ 1,167 | 🐛 24 | 🌐 Scala | 📅 2026-09-02 - Waves Node repository on GitHub.
-* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 28 | 🌐 Go | 📅 2026-09-03 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
+* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 251 | 🐛 27 | 🌐 Go | 📅 2026-09-04 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 * [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
@@ -164,7 +164,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 #### JavaScript/TypeScript
 
 * [waves-transactions](https://github.com/wavesplatform/waves-transactions) ⭐ 30 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-08 - JS library to build and sign transactions.
-* [Waves Signer](https://github.com/wavesplatform/signer) ⭐ 28 | 🐛 42 | 🌐 TypeScript | 📅 2026-02-25 - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web) ⭐ 5 | 🐛 13 | 🌐 TypeScript | 📅 2023-03-03).
+* [Waves Signer](https://github.com/wavesplatform/signer) ⭐ 28 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04 - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web) ⭐ 5 | 🐛 13 | 🌐 TypeScript | 📅 2023-03-03).
 * [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2020-07-24 - JS widget for accepting crypto payments on your website.
 * [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-20 - Typescript implementations like signature verification and protocol entries used in Waves protocol.
 * [crypto-donate](https://github.com/vlzhr/crypto-donate) ⭐ 3 | 🐛 16 | 🌐 HTML | 📅 2023-01-07 - HTML widget allowing to donate Waves tokens to content authors.
@@ -195,13 +195,13 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Blockchain utils
 
-* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 28 | 🌐 Go | 📅 2026-09-03 - Utility to compare blockchains on a different nodes.
+* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 251 | 🐛 27 | 🌐 Go | 📅 2026-09-04 - Utility to compare blockchains on a different nodes.
 * [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) ⚠️ Archived - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 * [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
 ### Other tools
 
-* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,206 | 🐛 641 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,206 | 🐛 641 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
+* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,205 | 🐛 641 | 🌐 Python | 📅 2026-08-17 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,205 | 🐛 641 | 🌐 Python | 📅 2026-08-17 highlighter oficially supports the Ride out of the box.
 * [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2021-11-03 - SyntaxHighlighter brush for the Ride language.
 
 ## Built on Waves
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
