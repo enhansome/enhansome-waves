@@ -43,8 +43,8 @@
                 "id": 151067423,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:05:12Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-07T08:26:06Z",
+                "open_issues": 28,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251,
@@ -733,8 +733,8 @@
                 "id": 151067423,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:05:12Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-07T08:26:06Z",
+                "open_issues": 28,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
                 "stars": 251,
@@ -795,10 +795,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-17T08:03:32Z",
-                "open_issues": 644,
+                "open_issues": 648,
                 "owner": "pygments",
                 "repo": "pygments",
-                "stars": 2205,
+                "stars": 2206,
                 "topics": [
                   "python",
                   "syntax-highlighting"
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:04:00.020Z",
+    "last_updated": "2026-09-07T20:30:04.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
