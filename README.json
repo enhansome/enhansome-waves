@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "wavesplatform",
                 "repo": "Waves",
-                "stars": 1167,
+                "stars": 1166,
                 "topics": [
                   "blockchain",
                   "cryptography",
@@ -47,7 +47,7 @@
                 "open_issues": 26,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "blockchain",
                   "blockchain-technology",
@@ -737,7 +737,7 @@
                 "open_issues": 26,
                 "owner": "wavesplatform",
                 "repo": "gowaves",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "blockchain",
                   "blockchain-technology",
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:46:25.701Z",
+    "last_updated": "2026-10-02T21:16:43.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
