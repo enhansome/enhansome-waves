@@ -696,7 +696,7 @@
                     "language": "Swift",
                     "license": "MIT",
                     "last_commit": "2022-11-29T11:08:35Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "wavesplatform",
                     "repo": "WavesSDK-iOS",
                     "stars": 17,
@@ -795,10 +795,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-27T07:00:56Z",
-                "open_issues": 687,
+                "open_issues": 689,
                 "owner": "pygments",
                 "repo": "pygments",
-                "stars": 2216,
+                "stars": 2215,
                 "topics": [
                   "python",
                   "syntax-highlighting"
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:47:36.474Z",
+    "last_updated": "2026-10-04T20:04:58.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",

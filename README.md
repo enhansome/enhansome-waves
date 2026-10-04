@@ -191,7 +191,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 #### Swift
 
-* [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) ⭐ 17 | 🐛 6 | 🌐 Swift | 📅 2022-11-29 - SDK for Mobile Apps on iOS.
+* [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) ⭐ 17 | 🐛 5 | 🌐 Swift | 📅 2022-11-29 - SDK for Mobile Apps on iOS.
 
 ### Blockchain utils
 
@@ -201,7 +201,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Other tools
 
-* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,216 | 🐛 687 | 🌐 Python | 📅 2026-09-27 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,216 | 🐛 687 | 🌐 Python | 📅 2026-09-27 highlighter oficially supports the Ride out of the box.
+* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,215 | 🐛 689 | 🌐 Python | 📅 2026-09-27 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,215 | 🐛 689 | 🌐 Python | 📅 2026-09-27 highlighter oficially supports the Ride out of the box.
 * [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2021-11-03 - SyntaxHighlighter brush for the Ride language.
 
 ## Built on Waves
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
