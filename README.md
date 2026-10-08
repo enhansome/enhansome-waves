@@ -165,7 +165,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 * [waves-transactions](https://github.com/wavesplatform/waves-transactions) ⭐ 30 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-08 - JS library to build and sign transactions.
 * [Waves Signer](https://github.com/wavesplatform/signer) ⭐ 28 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04 - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web) ⭐ 5 | 🐛 13 | 🌐 TypeScript | 📅 2023-03-03).
-* [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2020-07-24 - JS widget for accepting crypto payments on your website.
+* [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2020-07-24 - JS widget for accepting crypto payments on your website.
 * [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-20 - Typescript implementations like signature verification and protocol entries used in Waves protocol.
 * [crypto-donate](https://github.com/vlzhr/crypto-donate) ⭐ 3 | 🐛 16 | 🌐 HTML | 📅 2023-01-07 - HTML widget allowing to donate Waves tokens to content authors.
 * [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2022-01-22 - Waves Signer implementation for Vue.js.
@@ -201,7 +201,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Other tools
 
-* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,214 | 🐛 694 | 🌐 Python | 📅 2026-09-27 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,214 | 🐛 694 | 🌐 Python | 📅 2026-09-27 highlighter oficially supports the Ride out of the box.
+* [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) ⭐ 2,214 | 🐛 693 | 🌐 Python | 📅 2026-09-27 - The [Pygments](https://github.com/pygments/pygments) ⭐ 2,214 | 🐛 693 | 🌐 Python | 📅 2026-09-27 highlighter oficially supports the Ride out of the box.
 * [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) ⭐ 1 | 🐛 2 | 🌐 HTML | 📅 2021-11-03 - SyntaxHighlighter brush for the Ride language.
 
 ## Built on Waves
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

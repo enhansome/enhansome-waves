@@ -413,7 +413,7 @@
                     "language": "TypeScript",
                     "license": null,
                     "last_commit": "2020-07-24T06:37:28Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "vlzhr",
                     "repo": "pay-crypto-widget",
                     "stars": 9,
@@ -795,7 +795,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-27T07:00:56Z",
-                "open_issues": 694,
+                "open_issues": 693,
                 "owner": "pygments",
                 "repo": "pygments",
                 "stars": 2214,
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:56:14.262Z",
+    "last_updated": "2026-10-08T22:00:07.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
