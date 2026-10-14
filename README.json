@@ -795,7 +795,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-27T07:00:56Z",
-                "open_issues": 720,
+                "open_issues": 729,
                 "owner": "pygments",
                 "repo": "pygments",
                 "stars": 2214,
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:47:51.229Z",
+    "last_updated": "2026-10-14T20:36:27.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
@@ -912,7 +912,7 @@
       "open_issues": 1,
       "owner": "msmolyakov",
       "repo": "awesome-waves",
-      "stars": 87,
+      "stars": 88,
       "topics": [
         "blockchain",
         "cryptocurrency",
