@@ -17,8 +17,8 @@
                 "id": 56426975,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-09-02T15:35:48Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-03T18:15:17Z",
+                "open_issues": 19,
                 "owner": "wavesplatform",
                 "repo": "Waves",
                 "stars": 1166,
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:50:53.043Z",
+    "last_updated": "2026-11-03T22:15:38.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",

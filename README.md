@@ -97,7 +97,7 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ### Other
 
-* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,166 | 🐛 26 | 🌐 Scala | 📅 2026-09-02 - Waves Node repository on GitHub.
+* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,166 | 🐛 19 | 🌐 Scala | 📅 2026-11-03 - Waves Node repository on GitHub.
 * [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 250 | 🐛 26 | 🌐 Go | 📅 2026-11-02 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
