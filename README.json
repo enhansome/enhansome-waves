@@ -17,8 +17,8 @@
                 "id": 56426975,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-11-04T15:35:05Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-05T20:08:22Z",
+                "open_issues": 19,
                 "owner": "wavesplatform",
                 "repo": "Waves",
                 "stars": 1166,
@@ -795,7 +795,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-27T07:00:56Z",
-                "open_issues": 798,
+                "open_issues": 800,
                 "owner": "pygments",
                 "repo": "pygments",
                 "stars": 2220,
@@ -900,7 +900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:32:15.695Z",
+    "last_updated": "2026-11-05T22:38:34.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome things for development on Waves blockchain.",
