@@ -97,8 +97,8 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ### Other
 
-* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,165 | 🐛 17 | 🌐 Scala | 📅 2026-11-12 - Waves Node repository on GitHub.
-* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 250 | 🐛 30 | 🌐 Go | 📅 2026-11-12 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
+* [Node](https://github.com/wavesplatform/Waves) ⭐ 1,165 | 🐛 18 | 🌐 Scala | 📅 2026-11-13 - Waves Node repository on GitHub.
+* [Go Node](https://github.com/wavesplatform/gowaves) ⭐ 250 | 🐛 27 | 🌐 Go | 📅 2026-11-13 - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 * [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 * [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 * [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
@@ -195,7 +195,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Blockchain utils
 
-* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 250 | 🐛 30 | 🌐 Go | 📅 2026-11-12 - Utility to compare blockchains on a different nodes.
+* [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) ⭐ 250 | 🐛 27 | 🌐 Go | 📅 2026-11-13 - Utility to compare blockchains on a different nodes.
 * [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) ⚠️ Archived - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 * [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
@@ -303,4 +303,4 @@ I'll be glad your suggestions!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
